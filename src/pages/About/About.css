@@ -1,0 +1,26 @@
+.About{
+    padding-bottom: 0 !important;
+}
+
+.about-container{
+    display: grid;
+    grid-template-columns: 52% auto;
+    gap: 12rem;
+}
+
+.about-left p{
+    margin-top: 1rem;
+}
+
+@media (max-width:1024px) {
+    .about-container{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    .about-right{
+        display: flex;
+        justify-content: center;
+    }
+
+}
+

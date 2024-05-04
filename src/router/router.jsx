@@ -12,7 +12,7 @@ export default function router() {
     <Nav />
     <Theme />
     <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/portfolio/' element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/projects' element={<Projects />} />
         <Route path='/Education' element={<Education />} />

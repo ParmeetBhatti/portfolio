@@ -65,7 +65,7 @@ header{
     }
     .header-container{
         grid-template-columns: 1fr;
-        gap: 10rem;
+        gap: 15rem;
     }
     .header-container::before{
         height: 108%;

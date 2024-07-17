@@ -79,8 +79,8 @@ export const services = [
     {
         id: 3,
         icon: faBrain,
-        name:'Artificial Intelligence',
-        des:'Currently pursuing a Bachelors degree in Artificial Intelligence, dedicated to mastering the intricacies of machine learning, neural networks, and data analysis, with a focus on leveraging AI to address real-world challenges.'
+        name:'Cyber Security',
+        des:"Worked as a cyber security intern at CoE-CNDS,VJTI where I focused on recreating CVE's(Commom Vulnerabilities and Exposures). I have also worked on a project for Enhancement of User Authetication for mitigating MITM attacks."
     },
 ];
 
@@ -155,7 +155,7 @@ export const education = [
         level: 'B.Tech in Information Technology ',
         school: 'K J Somaiya College of Engineering',
         year: '2021-2025',
-        percent: '8.85 CGPA',
+        percent: '8.90 CGPA',
     },
 ];
 
